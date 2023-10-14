@@ -69,7 +69,7 @@ To use the Multi-PDF Chat App, you'll need to configure the application by editi
 
 2. **Edit Configuration:**
 
-   - Inside `configuration.json`, you'll find placeholders for various settings such as API keys, file paths, and other parameters. Edit these fields with your own information:
+   - Inside `configuration.json`, you'll find placeholders for various settings such as API keys and other parameters. Edit these fields with your own information:
 
    ```json
    {
@@ -84,8 +84,6 @@ To use the Multi-PDF Chat App, you'll need to configure the application by editi
    - Replace `"YOUR_OPENAI_API_KEY"` with your actual OpenAI API key.
 
    - Set `"pdf_files_directory"` to the directory where your PDF files are located.
-
-   - Set `"output_directory"` to the directory where you want the app to save output files, if applicable.
 
    - Adjust other settings as needed.
 
