@@ -67,14 +67,14 @@ To use the Multi-PDF Chat App, you'll need to configure the application by editi
 
    - Inside `configuration.json`, you'll find placeholders for various settings such as API keys and other parameters. Edit these fields with your own information:
 
-   ```json
+    ```json
    {
-  "openai_api": "abc123xyz456",
-  "model": "gpt-3.5-turbo",
- "tokens_length": 1000,
- "number_of_references": 2,
- "temperature": 0
-}
+     "openai_api": "abc123xyz456",
+     "model": "gpt-3.5-turbo",
+    "tokens_length": 1000,
+    "number_of_references": 2,
+    "temperature": 0
+   }
    ```
 
    - Replace `"YOUR_OPENAI_API_KEY"` with your actual OpenAI API key.
