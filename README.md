@@ -63,13 +63,13 @@ To use the Multi-PDF Chat App, you'll need to configure the application by editi
 
 1. **Configuration File Setup:**
 
-   - Locate the `config.json` file in the project root directory.
+   - Locate the `configuration.json` file in the project root directory.
 
-   - Open `config.json` using a text editor of your choice.
+   - Open `configuration.json` using a text editor of your choice.
 
 2. **Edit Configuration:**
 
-   - Inside `config.json`, you'll find placeholders for various settings such as API keys, file paths, and other parameters. Edit these fields with your own information:
+   - Inside `configuration.json`, you'll find placeholders for various settings such as API keys, file paths, and other parameters. Edit these fields with your own information:
 
    ```json
    {
@@ -91,7 +91,7 @@ To use the Multi-PDF Chat App, you'll need to configure the application by editi
 
 3. **Save Configuration:**
 
-   - Save the `config.json` file after making your changes.
+   - Save the `configuration.json` file after making your changes.
 
 4. **Run the App:**
 
