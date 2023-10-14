@@ -9,7 +9,7 @@
     If you have questions or concerns, you're welcome to reach out via the email provided.
 
 '''
-from doc_assistant import DocumentAssistant
+from src.doc_assistant import DocumentAssistant
 
 if __name__ == "__main__":
     assistant = DocumentAssistant("configuration.json")
