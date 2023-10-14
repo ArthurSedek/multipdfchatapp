@@ -17,6 +17,7 @@
 
 Welcome to the Multi-PDF Chat App with OpenAI LLM! This application allows users to chat with multiple PDF files simultaneously using the power of OpenAI's Language Model. You can also view images from the PDF files within the app, making it a versatile tool for text and image-based interactions with documents.
 
+Python Version: This app was developed using Python 3.11.5.
 
 ## Features
 
