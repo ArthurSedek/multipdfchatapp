@@ -55,10 +55,6 @@ Follow these steps to get the Multi-PDF Chat App up and running on your local ma
 
 ## Usage
 
-Certainly! Here's how you can modify the "Usage" section to include instructions on editing the configuration file:
-
-## Usage
-
 To use the Multi-PDF Chat App, you'll need to configure the application by editing the available configuration file. Follow these steps:
 
 1. **Configuration File Setup:**
