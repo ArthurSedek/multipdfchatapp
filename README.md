@@ -69,12 +69,12 @@ To use the Multi-PDF Chat App, you'll need to configure the application by editi
 
    ```json
    {
-     "openai_api_key": "YOUR_OPENAI_API_KEY",
-     "pdf_files_directory": "/path/to/your/pdf/files",
-     "output_directory": "/path/to/output/directory",
-     "max_chat_history": 3,
-     "other_settings": "customize_here"
-   }
+  "openai_api": "abc123xyz456",
+  "model": "gpt-3.5-turbo",
+ "tokens_length": 1000,
+ "number_of_references": 2,
+ "temperature": 0
+}
    ```
 
    - Replace `"YOUR_OPENAI_API_KEY"` with your actual OpenAI API key.
