@@ -27,7 +27,7 @@ Python Version: This app was developed using Python 3.11.5.
 
 ## Demo
 
-![Project Logo/Icon](https://github.com/ArthurSedek/multipdfchatapp/blob/main/resources/multi-pdf.png)
+![Project Logo/Icon](https://github.com/ArthurSedek/multipdfchatapp/blob/main/resources/multi-pdf.jpg)
 
 ## Getting Started
 
