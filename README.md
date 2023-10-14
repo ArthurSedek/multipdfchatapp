@@ -38,13 +38,13 @@ Follow these steps to get the Multi-PDF Chat App up and running on your local ma
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/ArthurSedek/multipdfchatapp.git
    ```
 
 2. Change directory to the project folder:
 
    ```bash
-   cd your-repository
+   cd multipdfchatapp
    ```
 
 3. Install the required dependencies:
