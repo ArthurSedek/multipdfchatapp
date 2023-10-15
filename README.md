@@ -79,8 +79,6 @@ To use the Multi-PDF Chat App, you'll need to configure the application by editi
 
    - Replace `"YOUR_OPENAI_API_KEY"` with your actual OpenAI API key.
 
-   - Set `"pdf_files_directory"` to the directory where your PDF files are located.
-
    - Adjust other settings as needed.
 
 3. **Save Configuration:**
