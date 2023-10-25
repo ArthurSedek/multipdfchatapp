@@ -1,4 +1,4 @@
-# Multi-PDF Chat App with OpenAI LLM
+# Unlimited-PDF Chat App with OpenAI LLM
 
 ![Project Logo/Icon](https://github.com/ArthurSedek/multipdfchatapp/blob/main/resources/MYLOGO.png)
 
