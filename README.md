@@ -21,7 +21,7 @@ Python Version: This app was developed using Python 3.11.5.
 
 ## Features
 
-- **Multi-PDF Chat:** Chat with multiple PDF files in real-time.
+- **Multi-PDF Chat:** Chat with unlimited PDF files in real-time.
 - **Image Display:** View images contained within the PDF files.
 - **OpenAI Integration:** Powered by OpenAI's LLM for natural language understanding.
 
@@ -31,20 +31,20 @@ Python Version: This app was developed using Python 3.11.5.
 
 ## Getting Started
 
-Follow these steps to get the Multi-PDF Chat App up and running on your local machine.
+Follow these steps to get the Unlimited-PDF Chat App up and running on your local machine.
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ArthurSedek/multipdfchatapp.git
+   git clone https://github.com/aasedek/unlimitedpdfchatapp.git
    ```
 
 2. Change directory to the project folder:
 
    ```bash
-   cd multipdfchatapp
+   cd unlimitedpdfchatapp
    ```
 
 3. Install the required dependencies:
