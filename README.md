@@ -1,6 +1,6 @@
-# Unlimited-PDF Chat App with OpenAI LLM
+# Unlimited-PDF Chat App
 
-![Project Logo/Icon](https://github.com/ArthurSedek/multipdfchatapp/blob/main/resources/MYLOGO.png)
+![Project Logo/Icon](https://github.com/aasedek/unlimitedpdfchatapp/blob/main/resources/MYLOGO.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
